@@ -19,5 +19,5 @@ project-run-exe:
 	./build/lang/executable
 
 project-run-test:
-	./build/catch-tests/unit_tests
+	./build/tests/unit_tests
 	
